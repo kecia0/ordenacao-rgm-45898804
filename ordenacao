@@ -1,0 +1,12 @@
+ordenacao-rgm-45898804/
+│
+├── src/
+│   ├── main.c
+│   ├── sorts.c
+│   └── sorts.h
+│
+├── data/
+│   └── resultados.csv   (opcional)
+│
+└── README.md
+
